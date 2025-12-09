@@ -1,0 +1,9 @@
+{
+	"name": "df-spotify-project101",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5ce3f2d8-747e-4802-9f9f-2612a13166ef",
+		"tenantId": "e6445579-6057-4b2b-851c-221c5acfd3ee"
+	}
+}
