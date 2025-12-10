@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "df-spotify-project101"
+		},
+		"AzureDataLake_accountKey": {
+			"value": ""
+		},
+		"Azure_SQL_password": {
+			"value": ""
+		},
+		"AzureDataLake_properties_typeProperties_url": {
+			"value": "https://stazureproject101.dfs.core.windows.net/"
+		},
+		"Azure_SQL_properties_typeProperties_server": {
+			"value": "sql-dev101.database.windows.net"
+		},
+		"Azure_SQL_properties_typeProperties_database": {
+			"value": "azuredev"
+		},
+		"Azure_SQL_properties_typeProperties_userName": {
+			"value": "admin-sam"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
